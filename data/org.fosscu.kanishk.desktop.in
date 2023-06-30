@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=pytubesync
+Exec=pytubesync
+Icon=org.fosscu.kanishk
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

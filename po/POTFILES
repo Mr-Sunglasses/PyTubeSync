@@ -1,0 +1,6 @@
+data/org.fosscu.kanishk.desktop.in
+data/org.fosscu.kanishk.appdata.xml.in
+data/org.fosscu.kanishk.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
